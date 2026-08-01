@@ -216,3 +216,49 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==============================================
+# ESP32 / Embedded Systems (C/C++ / ESP-IDF / Arduino)
+# ==============================================
+
+# ESP-IDF build artifacts (MUST IGNORE - these are huge!)
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.h
+sdkconfig.json
+
+# Compiled binaries and firmware (large binary blobs)
+*.elf
+*.bin
+*.map
+*.hex
+*.out
+*.o
+*.obj
+*.a
+*.d
+*.dSYM/
+
+# ESP-IDF managed components (auto-downloaded dependencies)
+managed_components/
+components/esp-*/  # Auto-generated component files
+
+# Arduino / PlatformIO build folders
+.pio/
+.vscode/.browse.c_cpp.db*
+*.srec
+
+# Flashing / serial logs
+*.log
+*.serial
+*.flash
+
+# Partition table generated files
+partition_table/
+
+# CMake generated files (ESP-IDF uses CMake)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
