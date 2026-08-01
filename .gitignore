@@ -217,9 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# ==============================================
 # ESP32 / Embedded Systems (C/C++ / ESP-IDF / Arduino)
-# ==============================================
 
 # ESP-IDF build artifacts (MUST IGNORE - these are huge!)
 build/
