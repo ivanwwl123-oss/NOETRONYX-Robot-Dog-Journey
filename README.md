@@ -1,5 +1,5 @@
 # NOETRONYX-Robot-Dog-Journey
-End-to-end portfolio project for an AI-powered quadruped robot (Robot Dog). Integrating Python, ESP32, OpenCV, YOLOv8, ROS2, Jetson Orin Nano, 2D LiDAR, and LLM for human-robot interaction. This repository documents the complete 16-month R&amp;D journey, from bare-metal sensor reading to autonomous navigation and edge-AI inference.
+End-to-end portfolio project for an AI-powered quadruped robot (Robot Dog). Integrating Python, ESP32, OpenCV, YOLOv8, ROS2, Jetson Orin Nano, 2D LiDAR, and LLM for human-robot interaction. This repository documents the complete 12-month R&amp;D journey, from bare-metal sensor reading to autonomous navigation and edge-AI inference.
 
 ## 🚀 Project Overview
 **Start Date:** 2026.08.01  
@@ -7,7 +7,7 @@ End-to-end portfolio project for an AI-powered quadruped robot (Robot Dog). Inte
 **Core Objective:** Build a fully functional, AI-enabled quadruped robot from scratch, emphasizing **system integration** over isolated algorithm development.
 
 This repository serves as the central hub for my senior-year entry portfolio, targeting:
-- **PolyU ESE (46409-SYE)** – Electronic Systems & IoT Engineering
+- **PolyU ESE** – Electronic Systems & IoT Engineering
 - **CityU CDE** – Computer and Data Engineering
 
 ---
@@ -67,7 +67,7 @@ To avoid financial overhead and reduce cognitive load, hardware is acquired stri
 ---
 
 ## 👤 Author
-**Ivan Wang**  
+**Ivan Wong**  
 *Aspirant Embedded Systems & Robotics Engineer*  
 Targeting 2027/2028 Senior Year Entry (PolyU / CityU)
 
